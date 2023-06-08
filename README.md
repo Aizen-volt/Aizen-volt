@@ -2,7 +2,7 @@
 <h3>My name's Mateusz. I'm a Computer Science student at Gdańsk University of Technology</h3>
 
 <h4>Few things about me:</h4>
- 👨‍💻 Currently working on: <strong>GIPF game states solver</strong>
+ 👨‍💻 Currently working on: <strong>simplified replica of ls command </strong>
  <br>
 ⚡ Interested in: <strong>computational complexity of discrete optimization problems</strong>
  
