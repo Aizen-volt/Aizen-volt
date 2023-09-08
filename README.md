@@ -11,10 +11,7 @@
 
 <h2 align="center">🔥 My stats 🔥</h2>
 &nbsp;
-<p align="center"><img align="center" src="https://github-readme-stats-aizen-volt.vercel.app/api/top-langs?username=aizen-volt&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="top-langs" /></p>
-&nbsp;
 <p align="center"><img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=aizen-volt&theme=dark&background=000000" alt="streaks" /></p>
- 
  &nbsp;
  
 <h2 align="center">🛠️ Languages and Tools 🛠️</h2>
