@@ -13,6 +13,6 @@
 <h2 align="center">📬 Connect with me 📬</h2>
 <p align="center">
 <a href="https://linkedin.com/in/mateusz-kaszubowski" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mateusz-kaszubowski" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/aizen-volt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aizen-volt" height="30" width="50" /></a>
+<a href="https://www.leetcode.com/Aizenvolt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aizen-volt" height="30" width="50" /></a>
 <a href="https://www.youtube.com/channel/UCOM25OTP4NuNxIVPMz-CWgw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="mateuszkaszubowski" height="30" width="50" /></a>
 </p>
