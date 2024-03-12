@@ -26,6 +26,10 @@
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   </a>
   &nbsp;
+  <a href="https://www.robotframework.org" target="_blank" rel="noreferrer">
+   <img src="https://www.svgrepo.com/show/374049/robotframework.svg" alt="robot" width="40" height="40"/>
+  </a>
+  &nbsp;
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="50" height="40"/>
   </a>
@@ -35,7 +39,8 @@
   </a>
   &nbsp;
  </p>
- <p align="center>
+  <br>
+ <p align="center">
   <a href="https://www.jetbrains.com/" target="_blank" rel="noreferrer">
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jetbrains/jetbrains-original.svg" alt="jetbrains" width="40" height="40"/> 
   </a>
