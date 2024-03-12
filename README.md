@@ -5,10 +5,10 @@
  <h2 align="center">🔥 My stats 🔥</h2>
  &nbsp;
      <p>
-       <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aizen-volt&theme=dark&hide_border=false" alt="github-streak-stats"/>
+       <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aizen-volt&theme=github_dark&hide_border=false" alt="github-streak-stats"/>
      </p>
      <p>
-       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aizen-volt&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="most-used-languages"/>
+       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aizen-volt&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="most-used-languages"/>
      </p>
   
  <h2 align="center">🛠️ Languages and Tools 🛠️</h2>
