@@ -1,6 +1,9 @@
 <div align="center">
  <h1 align="center">👋 Welcome to my page 👋</h1>
- <h3 align="center">My name's Mateusz. I'm a Computer Science student at Gdańsk University of Technology</h3>
+ <h3 align="center">I'm Mateusz, a passionate Software Engineering Intern at Adtran, where I'm involved in developing the Centralized Resource Manager for the Optical Transport Management layer. <br><br>
+  I mainly work with Java and Spring framework, but I also take part in developing framework for System Integration Tests as an extension for Python's Robot.<br><br>
+  Currently studying Computer Science at Gdańsk University of Technology, I'm proficient in C++ and adept at crafting robust solutions that optimize performance and enhance scalability.
+  <br><br>Let's connect!</h3>
  
  <h2 align="center">🔥 My stats 🔥</h2>
  &nbsp;
