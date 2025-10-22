@@ -1,21 +1,18 @@
-<div align="center">
- <h1 align="center">👋 Welcome to my page 👋</h1>
- <h4 align="center">I'm Mateusz, a passionate Software Engineering Intern at Adtran, where I'm involved in developing the Centralized Resource Manager for the Optical Transport Management layer. <br><br>
-  I mainly work with Java and Spring framework, but I also take part in developing framework for System Integration Tests as an extension for Python's Robot.<br><br>
-  Currently studying Computer Science at Gdańsk University of Technology, I'm proficient in C++ and adept at crafting robust solutions that optimize performance and enhance scalability.
-  <br><br>Let's connect!</h4>
- 
- <h2 align="center">🔥 My stats 🔥</h2>
- &nbsp;
-     <p>
-       <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aizen-volt&theme=github_dark&hide_border=false" alt="github-streak-stats"/>
-     </p>
-     <p>
-       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aizen-volt&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="most-used-languages"/>
-     </p>
+<h1 align="center">🔥 Stats 🔥</h2>
+&nbsp;
+<p align="center">
+  <a href="https://github.com/Aizen-volt">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aizen-volt&theme=github_dark&hide_border=false" height="180em" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/Aizen-volt">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aizen-volt&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="180em" />
+  </a>
+</p>
+
   
- <h2 align="center">🛠️ Languages and Tools 🛠️</h2>
- <br>
+ <h1 align="center">🛠️ Languages and Tools 🛠️</h2>
+ &nbsp;
  <p align="center">
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
@@ -70,10 +67,4 @@
   &nbsp;
  </p>
  
- <h2 align="center">📬 Connect with me 📬</h2>
- <p align="center">
- <a href="https://linkedin.com/in/mateusz-kaszubowski" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mateusz-kaszubowski" height="30" width="40" /></a>
- <a href="https://www.leetcode.com/Aizenvolt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aizen-volt" height="30" width="50" /></a>
- <a href="https://www.youtube.com/channel/UCOM25OTP4NuNxIVPMz-CWgw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="mateuszkaszubowski" height="30" width="50" /></a>
- </p>
 </div>
